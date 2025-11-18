@@ -8,4 +8,4 @@ repository = "https://github.com/itsvks19/cpp-lsp-klyx"
 
 [language_servers.clangd]
 name = "clangd"
-languages = ["C++", "C", "Objective-C", "Objective-C++"]
+languages = ["C++", "C", "Objective-C", "Objective-C++", "C/C++ Header", "C++ Header"]
