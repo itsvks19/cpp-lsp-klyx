@@ -1,6 +1,6 @@
 id = "cpp-lsp"
 name = "C++ Language Server"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Vivek"]
 description = "C++ language support using clangd for Klyx editor"
